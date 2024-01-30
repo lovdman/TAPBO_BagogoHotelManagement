@@ -11,8 +11,7 @@ Final Project Object-Oriented-Programing 2023
   - Graphic User Interface
   - MVC (Model,View,and Controller)
 
-This project is built to meet the following [guideline
-](https://docs.google.com/presentation/d/1aX2jgGW-RxxR19ZZVm9jrpPqbGfK61rC/edit#slide=id.p7)https://docs.google.com/presentation/d/1aX2jgGW-RxxR19ZZVm9jrpPqbGfK61rC/edit#slide=id.p7
+This project is built to meet the following [guideline](https://docs.google.com/presentation/d/1aX2jgGW-RxxR19ZZVm9jrpPqbGfK61rC/edit#slide=id.p7)
 
 
 
